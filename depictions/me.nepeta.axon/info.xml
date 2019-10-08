@@ -1,10 +1,10 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>me.nepeta.axon</id>
+	<name>Axon</name>
+	<version>0.9.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>12.4</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -12,8 +12,8 @@
 	</dependencies>
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>اداة لجعل مركز الاشعارات لمجلدات تحتوي على الاشعارات.</description>
+		<description>وجعل ايقونة المجلد ايقونة التطبيق.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
