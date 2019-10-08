@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>الاداة متوافقة مع كل الاصدارات</shortDescription>
 	<descriptionlist>
 		<description>اداة لجعل مركز الاشعارات لمجلدات تحتوي على الاشعارات.</description>
 		<description>وجعل ايقونة المجلد ايقونة التطبيق.</description>
