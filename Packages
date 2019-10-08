@@ -37,7 +37,7 @@ Depends: firmware (<7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/
 Size: 125.67
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+MD5sum: 65638ec9df38f56b39b4bfd8c3271205
 Description: This is a sample old package. Firmware should be lower than 10.0
 Name: Axon
 Author: Nepeta <s74ipy@gmail.com>
