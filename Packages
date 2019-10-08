@@ -26,3 +26,21 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+
+
+
+Package: me.nepeta.axon
+Version: 0.1.9
+Section: System
+Maintainer: Nepeta <s74ipy@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/
+Size: 125.67
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 10.0
+Name: Axon
+Author: Nepeta <s74ipy@gmail.com>
+Depiction: https://s74ipy.github.io/arjail/depictions/me.nepeta.axon
+
+
