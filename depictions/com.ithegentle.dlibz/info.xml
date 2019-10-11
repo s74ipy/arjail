@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>الاداة متوافقة مع كل الاصدارات</shortDescription>
+	<shortDescription>الاداة متوافقة مع  ios10 وفوق</shortDescription>
 	<descriptionlist>
-		<description>اداة لجعل مركز الاشعارات لمجلدات تحتوي على الاشعارات.</description>
-		<description>وجعل ايقونة المجلد ايقونة التطبيق.</description>
+		<description>اداة للتحكم بتشغيل وايقاف الادوات في تطبيقات انت تحددها</description>
+		<description></description>
 		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.
@@ -22,18 +22,18 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<description></description>
 			<image>cydia.jpg</image>
 		</screenshot>
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<description>""</description>
 			<image>cydia.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change></change>
+		<change></change>
 	</changelog>
 	<links>
 		<link>
