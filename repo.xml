@@ -1,14 +1,9 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
+			<name>تابعني على تويتر</name>
 			<url>https://twitter.com/74ifa</url>
 			<iconclass>fa fa-twitter</iconclass>
-		</link>
-		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/s74ipy/arjail/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
 </repo>
