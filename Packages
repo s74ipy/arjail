@@ -9,7 +9,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/me.nepeta.axon_0.1.9_iphoneos-arm.deb
 Size: 125.67
 MD5sum: 65638ec9df38f56b39b4bfd8c3271205
-Description: This is a sample old package. Firmware should be lower than 10.0
+Description: جعل الاشعارات ك مجلدات في مركز الاشعارات
 Name: Axon
 Author: Nepeta <s74ipy@gmail.com>
 Depiction: https://s74ipy.github.io/arjail/depictions/me.nepeta.axon
@@ -24,7 +24,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/dlibmanager_1.0-1.deb
 Size: 1.15 MB
 MD5sum: da2d424efd4d4de327d5d6a358c86281
-Description: This is a sample New package. From iOS10+
+Description: اداة للتحكم بتشغيل وايقاف الادوات في تطبيقات انت تحددها
 Name: Dlib Manager
 Author: ITheGentle <s74ipy@gmail.com>
 Depiction: https://s74ipy.github.io/arjail/depictions/me.nepeta.axon
