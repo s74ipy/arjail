@@ -1,5 +1,3 @@
-
-
 Package: me.nepeta.axon
 Version: 0.1.9
 Section: System
@@ -28,3 +26,17 @@ Description: اداة للتحكم بتشغيل وايقاف الادوات في
 Name: Dlib Manager
 Author: ITheGentle <s74ipy@gmail.com>
 Depiction: https://s74ipy.github.io/arjail/depictions/com.ithegentle.dlibz
+
+Package: net.tateu.bannersounds12
+Version: 1.0.0~beta2-3
+Section: تخصيص
+Maintainer: ITheGentle <s74ipy@gmail.com>
+Depends: firmware (<12.4)
+Architecture: iphoneos-arm
+Filename: ./debs/net.tateu.bannersounds12.deb
+Size: 266.34 KB
+MD5sum: f894feab4eebb83a06ec52bfc9cabf62
+Description: لتغيير صوت الاشعارات لكل تطبيق مثبت عندك
+Name: Banner Sounds 12
+Author: ITheGentle <s74ipy@gmail.com>
+Depiction: https://s74ipy.github.io/arjail/depictions/net.tateu.bannersounds12

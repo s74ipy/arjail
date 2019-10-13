@@ -1,0 +1,50 @@
+<package>
+	<id>net.tateu.bannersounds12</id>
+	<name>BannerSounds12</name>
+	<version>1.0.0~beta2-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>iOS 12 +</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>لتغيير صوت الاشعارات لكل تطبيق مثبت عندك</shortDescription>
+	<descriptionlist>
+		<description>مثلا تطبيق تويتر اللي مايسمح  بهذا الشي .</description>
+		<description>...</description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>لتغيير صوت الاشعارات لكل تطبيق مثبت عندك</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>لتغيير صوت الاشعارات لكل تطبيق مثبت عندك</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change></change>
+		<change>اصلاح الاخطاء</change>
+		<change>اصلاح الاخطاء</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>/twitter/74ifa</name>
+			<url>https://twitter.com/74ifa</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
