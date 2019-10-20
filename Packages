@@ -2,7 +2,7 @@ Package: me.nepeta.axon
 Version: 0.1.9
 Section: System
 Maintainer: Nepeta <s74ipy@gmail.com>
-Depends: firmware (<7.0)
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/me.nepeta.axon_0.1.9_iphoneos-arm.deb
 Size: 125.67
@@ -17,7 +17,7 @@ Package: com.ithegentle.dlibz
 Version: 1.0-1
 Section: Apps
 Maintainer: ITheGentle <s74ipy@gmail.com>
-Depends: firmware (<12.4)
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/dlibmanager_1.0-1.deb
 Size: 1.15 MB
@@ -31,7 +31,7 @@ Package: net.tateu.bannersounds12
 Version: 1.0.0~beta2-3
 Section: تخصيص
 Maintainer: ITheGentle <s74ipy@gmail.com>
-Depends: firmware (<12.4)
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/net.tateu.bannersounds12.deb
 Size: 266.34 KB
@@ -45,7 +45,7 @@ Package: com.spark.snowboard.UI
 Version: 1.0.0Beta1
 Section: SnowBoard (Extension)
 Maintainer: Spark <s74ipy@gmail.com>
-Depends: firmware (<12.4)
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.spark.snowboard.ui.deb
 Size: ‏‏34.2 KB
@@ -59,7 +59,7 @@ Package:  com.spark.snowboard.presetextension
 Version: 1.0.13~Beta1
 Section: SnowBoard (Extension)
 Maintainer: Spark <s74ipy@gmail.com>
-Depends: firmware (<12.4)
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.spark.snowboard.presetextension.deb
 Size: 70.02 KB
