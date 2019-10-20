@@ -40,3 +40,31 @@ Description: لتغيير صوت الاشعارات لكل تطبيق مثبت �
 Name: Banner Sounds 12
 Author: ITheGentle <s74ipy@gmail.com>
 Depiction: https://s74ipy.github.io/arjail/depictions/net.tateu.bannersounds12
+
+Package: com.spark.snowboard.UI
+Version: 1.0.0Beta1
+Section: SnowBoard (Extension)
+Maintainer: Spark <s74ipy@gmail.com>
+Depends: firmware (<12.4)
+Architecture: iphoneos-arm
+Filename: ./debs/com.spark.snowboard.ui.deb
+Size: ‏‏34.2 KB
+MD5sum: 405eb5d7bcc9614c3b800c437886b3fb
+Description: اضافة لاداة snowboard لتفعيل ثيمات لوحة التحكم
+Name: Snowboard UI
+Author: Spark <s74ipy@gmail.com>
+Depiction: تفعيل الثيمات للوحة التحكم
+
+Package:  com.spark.snowboard.presetextension
+Version: 1.0.13~Beta1
+Section: SnowBoard (Extension)
+Maintainer: Spark <s74ipy@gmail.com>
+Depends: firmware (<12.4)
+Architecture: iphoneos-arm
+Filename: ./debs/com.spark.snowboard.presetextension.deb
+Size: 70.02 KB
+MD5sum: 8ee1847f44aaacc342398841ff8d42a7
+Description:  عمل نسخة احتياطية لثيماتك والتنقل بينها SnowBoard
+Name: SnowBoard Preset Extension
+Author: Spark <s74ipy@gmail.com>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.presetextension
