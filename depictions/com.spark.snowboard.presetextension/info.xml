@@ -1,0 +1,45 @@
+<package>
+	<id>com.spark.snowboard.presetextension</id>
+	<name>SnowBoard Preset Extension</name>
+	<version>1.0.13~Beta1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>متوافقة مع احدث اصدار 12.4</shortDescription>
+	<descriptionlist>
+		<description> عمل نسخة احتياطية لثيماتك والتنقل بينها SnowBoard</description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>""</description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
