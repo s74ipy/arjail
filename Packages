@@ -55,3 +55,17 @@ Description:  عمل نسخة احتياطية لثيماتك والتنقل ب�
 Name: SnowBoard Preset Extension
 Author: Spark <s74ipy@gmail.com>
 Depiction: https://s74ipy.github.io/arjail/depictions/com.spark.snowboard.presetextension
+
+Package:  com.adblockplus.plus
+Version: 1.1~1
+Section: Cracker
+Maintainer: Unknown <s74ipy@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/adblockplus1.1.1iphoneos-arm.deb
+Size: ‏‏12,4 KB
+MD5sum: 0daee4eae7601ab1d86cf785c0605e082ed9b912
+Description:  حجب الاعلانات من ادوات البلس والروكيت
+Name: AdBlock ++
+Author: Unknown <s74ipy@gmail.com>
+Depiction: unknown
