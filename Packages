@@ -34,7 +34,7 @@ Maintainer: ITheGentle <s74ipy@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/net.tateu.bannersounds12.deb
-Size: 266.34 KB
+Size: 260 KB
 MD5sum: f894feab4eebb83a06ec52bfc9cabf62
 Description: لتغيير صوت الاشعارات لكل تطبيق مثبت عندك
 Name: Banner Sounds 12
@@ -64,7 +64,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/adblockplus1.1.1iphoneos-arm.deb
 Size: ‏‏12,4 KB
-MD5sum: 0daee4eae7601ab1d86cf785c0605e082ed9b912
+MD5sum: 131114b4f5eec2b1824b09f03c049039
 Description:  حجب الاعلانات من ادوات البلس والروكيت
 Name: AdBlock ++
 Author: Unknown <s74ipy@gmail.com>
