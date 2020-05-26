@@ -12,21 +12,6 @@ Name: Axon
 Author: Nepeta <s74ipy@gmail.com>
 Depiction: https://s74ipy.github.io/arjail/depictions/me.nepeta.axon
 
-
-Package: com.ithegentle.dlibz
-Version: 1.0-1
-Section: Apps
-Maintainer: ITheGentle <s74ipy@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/dlibmanager_1.0-1.deb
-Size: 1.15 MB
-MD5sum: da2d424efd4d4de327d5d6a358c86281
-Description: اداة للتحكم بتشغيل وايقاف الادوات في تطبيقات انت تحددها
-Name: Dlib Manager
-Author: ITheGentle <s74ipy@gmail.com>
-Depiction: https://s74ipy.github.io/arjail/depictions/com.ithegentle.dlibz
-
 Package: net.tateu.bannersounds12
 Version: 1.0.0~beta2-3
 Section: تخصيص
